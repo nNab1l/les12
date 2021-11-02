@@ -1,0 +1,1 @@
+### Ik heb in de console document.body.style gebruikt om kleuren aan te passen
